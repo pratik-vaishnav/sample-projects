@@ -1,3 +1,6 @@
+## Here’s a demo video of the project:
+ https://github.com/pratik-vaishnav/sample-projects/raw/refs/heads/master/recording.mp4
+
 # WebSocket Setup with Spring Boot and HTML/JavaScript Frontend
 
 This guide will help you set up a WebSocket connection between a Spring Boot backend and a simple frontend using HTML, CSS, and JavaScript.
